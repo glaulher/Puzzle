@@ -27,4 +27,4 @@ make
 
 - [Puzzle C++ SFML](https://youtu.be/pKqWOObonUY)
 
-(https://github.com/glaulher/Puzzle/blob/main/assets/puzzleGame.png)
+![](https://github.com/glaulher/Puzzle/blob/main/assets/puzzleGame.png)

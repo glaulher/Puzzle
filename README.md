@@ -25,4 +25,4 @@ make
 Watch video on Youtube
 https://youtu.be/pKqWOObonUY 
 ---
-![Puzzle C++ SFML](https://youtu.be/pKqWOObonUY)
+[Puzzle C++ SFML](https://youtu.be/pKqWOObonUY)

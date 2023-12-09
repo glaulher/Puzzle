@@ -21,8 +21,8 @@ git clone https://github.com/terroo/puzzle
 cd puzzle
 make
 ```
-
-Watch video on Youtube
-https://youtu.be/pKqWOObonUY 
 ---
-[Puzzle C++ SFML](https://youtu.be/pKqWOObonUY)
+
+## Watch video on Youtube
+
+- [Puzzle C++ SFML](https://youtu.be/pKqWOObonUY)

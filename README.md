@@ -24,3 +24,5 @@ make
 
 Watch video on Youtube
 https://youtu.be/pKqWOObonUY 
+---
+[![Puzzle C++ SFML](./assets/puzzle-game.png)](https://youtu.be/pKqWOObonUY)

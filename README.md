@@ -11,10 +11,10 @@ class taught by Marcos from the terminal root blog
 - https://www.youtube.com/watch?v=pKqWOObonUY
 
 ## Dependencies
-GNU GCC/g++
-SFML
-GNU Make
-Build and run
+- GNU GCC/g++
+- SFML
+- GNU Make
+- Build and run
 
 ```shell
 git clone https://github.com/terroo/puzzle
